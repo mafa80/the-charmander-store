@@ -23,27 +23,31 @@
 
 ## Imagenes del proyecto
 
-
+## Pantalla inicial
 <p align="center">
   <img src="https://i.ibb.co/L1DHYQt/Home-Charmander-store.png width="350" title="hover text">
 </p>
+                                                                                             
+## Pantalla de articulo
 
 <p align="center">
   <img src="https://i.ibb.co/FwXFdj6/Mascarilla-Charmander-Charmander-store.png" width="350" title="hover text">
 </p>
+
+## Carrito de compra
+
 
 <p align="center">
   <img src="https://i.ibb.co/sRnm1wz/Sudadera-Charmander-mujer-Charmander-store.png" width="350" title="hover text">
 </p>
-<p align="center">
-  <img src="https://i.ibb.co/FwXFdj6/Mascarilla-Charmander-Charmander-store.png" width="350" title="hover text">
-</p>
+
+## Pago del producto
+
+
 <p align="center">
   <img src="https://i.ibb.co/wRGRDTp/se-or-Jefe.png" width="350" title="hover text">
 </p>
-<p align="center">
-  <img src="https://i.ibb.co/FwXFdj6/Mascarilla-Charmander-Charmander-store.png" width="350" title="hover text">
-</p>
+
 
 
 
