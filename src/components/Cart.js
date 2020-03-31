@@ -16,7 +16,7 @@ export default function Cart() {
 
   useEffect(() => {
     setStripe(
-      window.Stripe("pk_test_F72zZC7C0ILFGfaALe36dVZy00l2FoInlt", {
+      window.Stripe("YOU_KEY", {
         betas: ["checkout_beta_4"],
       })
     )
@@ -27,8 +27,8 @@ export default function Cart() {
     e.preventDefault()
     const { error } = await stripe.redirectToCheckout({
       items: cart.map(({ sku, quantity }) => ({ sku, quantity })),
-      successUrl: "http://localhost:8000/gracias",
-      cancelUrl: "http://localhost:8000/cancelacion",
+      successUrl: "YOU_WINDOW",
+      cancelUrl: "YOU_WINDOW",
     })
 
     if (error) {
