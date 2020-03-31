@@ -27,7 +27,7 @@
     <img alt="Gatsby" src="https://i.ibb.co/L1DHYQt/Home-Charmander-store.png" width="60" />
   </a>
 </p>
-
+![alt text](https://i.ibb.co/L1DHYQt/Home-Charmander-store.png)
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://i.ibb.co/FwXFdj6/Mascarilla-Charmander-Charmander-store.png" width="60" />
