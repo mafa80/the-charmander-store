@@ -9,6 +9,10 @@
 </h1>
 
 
+##puedes ver la pagina en este link
+
+## https://charmander-store.netlify.com/
+
 
 ## 🚀 Quick start
 
